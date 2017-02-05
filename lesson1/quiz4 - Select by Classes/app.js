@@ -8,4 +8,3 @@ var articleItems;
 articleItems = $(".article-item");
 console.log(articleItems);
 
-// your code goes here!

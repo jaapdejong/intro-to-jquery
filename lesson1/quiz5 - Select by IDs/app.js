@@ -8,4 +8,3 @@ var nav;
 nav = $('#nav');
 console.log(nav);
 
-// your code goes here!

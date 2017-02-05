@@ -11,12 +11,12 @@ var articleList, h1, kids, parents;
 articleList = $('.article-list');
 console.log(articleList);
 
-h1 = $('.article-list').siblings('h1') // Your code goes here!
+h1 = $('.article-list').siblings('h1');
 console.log(h1);
 
-kids = $('.article-list').children(); // Your code goes here!
+kids = $('.article-list').children();
 console.log(kids);
 
-parents = $('.article-list').parents(); // Your code goes here!
+parents = $('.article-list').parents();
 console.log(parents);
 

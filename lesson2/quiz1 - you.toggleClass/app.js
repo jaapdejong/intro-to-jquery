@@ -8,5 +8,3 @@ var featuredArticle;
 featuredArticle = $(".featured");
 featuredArticle.toggleClass("featured")
 
-// your code starts here!
-
